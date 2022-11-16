@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+body{
+    background-color: rgb(187, 199, 199);
+}
+#nav-actor{
+    display: inline-block;
+    color: white;
+    position: relative;
+    left: 0px;
+}
+#nav-quote{
+    display: inline-block;
+    position: relative;
+    left: 20px;
+}
